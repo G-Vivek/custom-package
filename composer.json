@@ -13,6 +13,6 @@
         "psr-4": {
             "Simplexi\\Greetr\\": "src/"
         }
-    }
-    "require": {}
+    },
+   "require": {}
 }
