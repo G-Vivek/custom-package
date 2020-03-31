@@ -1,0 +1,18 @@
+{
+    "name": "simplexi/greetr",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "g-vivek",
+            "email": "vivek@torinit.ca"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    }
+    "require": {}
+}
